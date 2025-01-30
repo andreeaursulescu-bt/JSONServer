@@ -2,5 +2,9 @@
   "incomes": [{
     "id": "CUST98765",
     "income": 3000
+  }],
+  "debts": [{
+    "id": "CUST98765",
+    "monthlyDebt": 200
   }]
 }
