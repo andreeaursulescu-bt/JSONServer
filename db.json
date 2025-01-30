@@ -127,9 +127,8 @@
   "incomes": [{
     "id": "CUST98765",
     "income": 3000
-  }
-  ],
-  "monthlyDebts": [[
+  }],
+  "monthlyDebts": [{
     "id": "CUST98765",
     "debt": 200
     }]
